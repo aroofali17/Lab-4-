@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main(){
 int m,y;
-
 printf("Enter month(1-12)");
 scanf("%d",&m);
 printf("Enter year");
